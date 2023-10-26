@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanshridev&label=Profile%20views&color=0e75b6&style=flat" alt="amanshridev" /> </p>
 
-- 🔭 I’m currently working on **Yummy Namkeen**
+- 🔭 I’m currently working on **NoohMedia**
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Next.Js, AWS, Docker**
 
 - 💬 Ask me about **React, Html, Css, JavaScript**
 
